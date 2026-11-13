@@ -1,3 +1,4 @@
+
 {
   "canais": [
     {
@@ -20,13 +21,13 @@
       "categoria": "Esportes",
       "ativo": true,
       "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportv/index.m3u8"
- },
+    },
     {
       "id": "band",
-      "nome": "band",
+      "nome": "Band",
       "categoria": "Abertos",
       "ativo": true,
-      "url": "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/bandsp/index.m3u8"
+      "url": "URL_DA_FONTE_AUTORIZADA"
     }
   ]
 }
