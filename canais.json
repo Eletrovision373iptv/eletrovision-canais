@@ -1,0 +1,25 @@
+{
+  "canais": [
+    {
+      "id": "globo",
+      "nome": "Globo DF",
+      "categoria": "Abertos",
+      "ativo": true,
+      "url": "URL_DA_FONTE_AUTORIZADA"
+    },
+    {
+      "id": "rtp",
+      "nome": "RTP",
+      "categoria": "Abertos",
+      "ativo": true,
+      "url": "URL_DA_FONTE_AUTORIZADA"
+    },
+    {
+      "id": "sportv",
+      "nome": "SporTV",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "URL_DA_FONTE_AUTORIZADA"
+    }
+  ]
+}
