@@ -5,21 +5,21 @@
       "nome": "Globo DF",
       "categoria": "Abertos",
       "ativo": true,
-      "url": "URL_DA_FONTE_AUTORIZADA"
+      "url": "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globodf/index.m3u8"
     },
     {
       "id": "rtp",
       "nome": "RTP",
       "categoria": "Abertos",
       "ativo": true,
-      "url": "URL_DA_FONTE_AUTORIZADA"
+      "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8"
     },
     {
       "id": "sportv",
       "nome": "SporTV",
       "categoria": "Esportes",
       "ativo": true,
-      "url": "URL_DA_FONTE_AUTORIZADA"
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportv/index.m3u8"
  },
     {
       "id": "band",
