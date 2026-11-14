@@ -1,4 +1,3 @@
-
 {
   "canais": [
     {
@@ -7,7 +6,9 @@
       "categoria": "Abertos",
       "ativo": true,
       "url": "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globodf/index.m3u8",
-      "hosts": ["d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"],
+      "hosts": [
+        "d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
       "path": "/globodf/",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
@@ -21,22 +22,10 @@
       "categoria": "Esportes",
       "ativo": true,
       "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportv/index.m3u8",
-      "hosts": ["d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"],
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
       "path": "/sportv/",
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
-        "Referer": "https://playerembedcanais.site/",
-        "Origin": "https://playerembedcanais.site"
-      }
-    },
-    {
-      "id": "band",
-      "nome": "Band",
-      "categoria": "Abertos",
-      "ativo": true,
-      "url": "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/bandsp/index.m3u8",
-      "hosts": ["d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"],
-      "path": "/bandsp/",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
         "Referer": "https://playerembedcanais.site/",
@@ -49,12 +38,1342 @@
       "categoria": "Abertos",
       "ativo": true,
       "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8",
-      "hosts": ["streaming-live.rtp.pt"],
+      "hosts": [
+        "streaming-live.rtp.pt"
+      ],
       "path": "/livetvhlsDVR/",
       "headers": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0",
         "Referer": "https://www.rtp.pt/",
         "Origin": "https://www.rtp.pt"
+      }
+    },
+    {
+      "id": "bandsp",
+      "nome": "Band SP",
+      "categoria": "Abertos",
+      "ativo": true,
+      "url": "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/bandsp/index.m3u8",
+      "hosts": [
+        "d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/bandsp/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "globoes",
+      "nome": "Globo ES",
+      "categoria": "Abertos",
+      "ativo": true,
+      "url": "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globoes/index.m3u8",
+      "hosts": [
+        "d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/globoes/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "globomg",
+      "nome": "Globo MG",
+      "categoria": "Abertos",
+      "ativo": true,
+      "url": "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globomg/index.m3u8",
+      "hosts": [
+        "d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/globomg/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "globors",
+      "nome": "Globo RS",
+      "categoria": "Abertos",
+      "ativo": true,
+      "url": "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globors/index.m3u8",
+      "hosts": [
+        "d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/globors/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "globorj",
+      "nome": "Globo RJ",
+      "categoria": "Abertos",
+      "ativo": true,
+      "url": "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globorj/index.m3u8",
+      "hosts": [
+        "d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/globorj/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "globosp",
+      "nome": "Globo SP",
+      "categoria": "Abertos",
+      "ativo": true,
+      "url": "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globosp/index.m3u8",
+      "hosts": [
+        "d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/globosp/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "recorddf",
+      "nome": "Record DF",
+      "categoria": "Abertos",
+      "ativo": true,
+      "url": "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recorddf/index.m3u8",
+      "hosts": [
+        "d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/recorddf/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "recordes",
+      "nome": "Record ES",
+      "categoria": "Abertos",
+      "ativo": true,
+      "url": "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordes/index.m3u8",
+      "hosts": [
+        "d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/recordes/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "recordmg",
+      "nome": "Record MG",
+      "categoria": "Abertos",
+      "ativo": true,
+      "url": "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordmg/index.m3u8",
+      "hosts": [
+        "d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/recordmg/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "recordrj",
+      "nome": "Record RJ",
+      "categoria": "Abertos",
+      "ativo": true,
+      "url": "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordrj/index.m3u8",
+      "hosts": [
+        "d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/recordrj/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "recordsp",
+      "nome": "Record SP",
+      "categoria": "Abertos",
+      "ativo": true,
+      "url": "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/recordsp/index.m3u8",
+      "hosts": [
+        "d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/recordsp/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "sbtsp",
+      "nome": "SBT SP",
+      "categoria": "Abertos",
+      "ativo": true,
+      "url": "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sbtsp/index.m3u8",
+      "hosts": [
+        "d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/sbtsp/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "adultswim",
+      "nome": "Adult Swim",
+      "categoria": "Infantil",
+      "ativo": true,
+      "url": "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/adultswim/index.m3u8",
+      "hosts": [
+        "d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/adultswim/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "animalplanet",
+      "nome": "Animal Planet",
+      "categoria": "Documentários",
+      "ativo": true,
+      "url": "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/animalplanet/index.m3u8",
+      "hosts": [
+        "d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/animalplanet/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "discoverychannel",
+      "nome": "Discovery Channel",
+      "categoria": "Documentários",
+      "ativo": true,
+      "url": "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/discoverychannel/index.m3u8",
+      "hosts": [
+        "d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/discoverychannel/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "cazetv",
+      "nome": "Cazé TV",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cazetv/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/cazetv/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "cazetv2",
+      "nome": "Cazé TV 2",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cazetv2/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/cazetv2/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "cazetv3",
+      "nome": "Cazé TV 3",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cazetv3/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/cazetv3/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "cazetv4",
+      "nome": "Cazé TV 4",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cazetv4/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/cazetv4/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "combate",
+      "nome": "Combate",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/combate/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/combate/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "dazn",
+      "nome": "DAZN",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/dazn/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/dazn/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "disneyplus",
+      "nome": "Disney+",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/disneyplus/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "disneyplus02",
+      "nome": "Disney+ 02",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus02/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/disneyplus02/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "disneyplus03",
+      "nome": "Disney+ 03",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus03/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/disneyplus03/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "disneyplus04",
+      "nome": "Disney+ 04",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/disneyplus04/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/disneyplus04/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "espn",
+      "nome": "ESPN",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/espn/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "espn2",
+      "nome": "ESPN 2",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn2/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/espn2/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "espn3",
+      "nome": "ESPN 3",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn3/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/espn3/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "espn4",
+      "nome": "ESPN 4",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn4/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/espn4/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "espn5",
+      "nome": "ESPN 5",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn5/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/espn5/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "espn6",
+      "nome": "ESPN 6",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/espn6/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/espn6/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "max",
+      "nome": "Max",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/max/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/max/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "max02",
+      "nome": "Max 02",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/max02/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/max02/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "max03",
+      "nome": "Max 03",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/max03/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/max03/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "max04",
+      "nome": "Max 04",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/max04/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/max04/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "paramountplus",
+      "nome": "Paramount+",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/paramountplus/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/paramountplus/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "paramountplus02",
+      "nome": "Paramount+ 02",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/paramountplus02/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/paramountplus02/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "paramountplus03",
+      "nome": "Paramount+ 03",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/paramountplus03/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/paramountplus03/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "paramountplus04",
+      "nome": "Paramount+ 04",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/paramountplus04/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/paramountplus04/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "premiere2",
+      "nome": "Premiere 2",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere2/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/premiere2/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "premiere3",
+      "nome": "Premiere 3",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere3/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/premiere3/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "premiere4",
+      "nome": "Premiere 4",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere4/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/premiere4/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "premiere5",
+      "nome": "Premiere 5",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere5/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/premiere5/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "premiere6",
+      "nome": "Premiere 6",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere6/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/premiere6/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "premiere7",
+      "nome": "Premiere 7",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere7/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/premiere7/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "premiere8",
+      "nome": "Premiere 8",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiere8/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/premiere8/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "premiereclubes",
+      "nome": "Premiere Clubes",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/premiereclubes/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/premiereclubes/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "sportv2",
+      "nome": "SporTV 2",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportv2/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/sportv2/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "sportv3",
+      "nome": "SporTV 3",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportv3/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/sportv3/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "sportynet",
+      "nome": "SportyNet",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportynet/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/sportynet/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "sportynet1",
+      "nome": "SportyNet 1",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportynet1/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/sportynet1/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "sportynet2",
+      "nome": "SportyNet 2",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportynet2/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/sportynet2/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "sportynet3",
+      "nome": "SportyNet 3",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sportynet3/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/sportynet3/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "xsports",
+      "nome": "X Sports",
+      "categoria": "Esportes",
+      "ativo": true,
+      "url": "https://d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/xsports/index.m3u8",
+      "hosts": [
+        "d1-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/xsports/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "tooncast",
+      "nome": "Tooncast",
+      "categoria": "Infantil",
+      "ativo": true,
+      "url": "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tooncast/index.m3u8",
+      "hosts": [
+        "d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/tooncast/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "gloob",
+      "nome": "Gloob",
+      "categoria": "Infantil",
+      "ativo": true,
+      "url": "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/gloob/index.m3u8",
+      "hosts": [
+        "d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/gloob/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "globonews",
+      "nome": "GloboNews",
+      "categoria": "Notícias",
+      "ativo": true,
+      "url": "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globonews/index.m3u8",
+      "hosts": [
+        "d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/globonews/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "aee",
+      "nome": "A&E",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/aee/index.m3u8",
+      "hosts": [
+        "d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/aee/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "amc",
+      "nome": "AMC",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/amc/index.m3u8",
+      "hosts": [
+        "d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/amc/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "axn",
+      "nome": "AXN",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/axn/index.m3u8",
+      "hosts": [
+        "d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/axn/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "cinemax",
+      "nome": "Cinemax",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/cinemax/index.m3u8",
+      "hosts": [
+        "d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/cinemax/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "globoplaynovelas",
+      "nome": "Globoplay Novelas",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/globoplaynovelas/index.m3u8",
+      "hosts": [
+        "d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/globoplaynovelas/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "hbo",
+      "nome": "HBO",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbo/index.m3u8",
+      "hosts": [
+        "d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/hbo/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "hbo2",
+      "nome": "HBO 2",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbo2/index.m3u8",
+      "hosts": [
+        "d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/hbo2/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "hbofamily",
+      "nome": "HBO Family",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbofamily/index.m3u8",
+      "hosts": [
+        "d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/hbofamily/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "hbomundi",
+      "nome": "HBO Mundi",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbomundi/index.m3u8",
+      "hosts": [
+        "d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/hbomundi/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "hboplus",
+      "nome": "HBO Plus",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hboplus/index.m3u8",
+      "hosts": [
+        "d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/hboplus/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "hbopop",
+      "nome": "HBO Pop",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbopop/index.m3u8",
+      "hosts": [
+        "d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/hbopop/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "hbosignature",
+      "nome": "HBO Signature",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hbosignature/index.m3u8",
+      "hosts": [
+        "d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/hbosignature/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "hboxtreme",
+      "nome": "HBO Xtreme",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/hboxtreme/index.m3u8",
+      "hosts": [
+        "d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/hboxtreme/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "megapix",
+      "nome": "Megapix",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/megapix/index.m3u8",
+      "hosts": [
+        "d2-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/megapix/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "sonychannel",
+      "nome": "Sony Channel",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/sonychannel/index.m3u8",
+      "hosts": [
+        "d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/sonychannel/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "space",
+      "nome": "Space",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/space/index.m3u8",
+      "hosts": [
+        "d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/space/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "studiouniversal",
+      "nome": "Studio Universal",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/studiouniversal/index.m3u8",
+      "hosts": [
+        "d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/studiouniversal/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "tcaction",
+      "nome": "TC Action",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcaction/index.m3u8",
+      "hosts": [
+        "d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/tcaction/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "tccult",
+      "nome": "TC Cult",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tccult/index.m3u8",
+      "hosts": [
+        "d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/tccult/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "tcfun",
+      "nome": "TC Fun",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcfun/index.m3u8",
+      "hosts": [
+        "d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/tcfun/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "tcpipoca",
+      "nome": "TC Pipoca",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcpipoca/index.m3u8",
+      "hosts": [
+        "d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/tcpipoca/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "tcpremium",
+      "nome": "TC Premium",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tcpremium/index.m3u8",
+      "hosts": [
+        "d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/tcpremium/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "tctouch",
+      "nome": "TC Touch",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/tctouch/index.m3u8",
+      "hosts": [
+        "d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/tctouch/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "warner",
+      "nome": "Warner",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/warner/index.m3u8",
+      "hosts": [
+        "d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/warner/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "usa",
+      "nome": "USA Network",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/usa/index.m3u8",
+      "hosts": [
+        "d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/usa/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
+      }
+    },
+    {
+      "id": "universaltv",
+      "nome": "Universal TV",
+      "categoria": "Filmes e Séries",
+      "ativo": true,
+      "url": "https://d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz/universaltv/index.m3u8",
+      "hosts": [
+        "d3-ywppjexvlyulasvmgzjdftfjikth0711oq80soveui6lkbi2iza2zf.cdn8embed.xyz"
+      ],
+      "path": "/universaltv/",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/157.0.0.0 Safari/537.36",
+        "Referer": "https://playerembedcanais.site/",
+        "Origin": "https://playerembedcanais.site"
       }
     }
   ]
