@@ -1361,6 +1361,18 @@
       }
     },
     {
+  "id": "sky_sports_f1",
+  "nome": "Sky Sports F1",
+  "categoria": "Esportes",
+  "ativo": true,
+  "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/tracks-v1a1/mono.m3u8",
+  "hosts": [
+    "cdn.stmify.com"
+  ],
+  "path": "/out/v1/SKY_SPORTS_F1/",
+  "headers": {}
+  }
+   {
       "id": "universaltv",
       "nome": "Universal TV",
       "categoria": "Filmes e Séries",
