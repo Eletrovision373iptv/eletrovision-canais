@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Sky Sports F1" group-title="Esportes",Sky Sports F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://cdn.stmify.com/
+https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/tracks-v1a1/mono.m3u8
