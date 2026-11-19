@@ -1376,6 +1376,67 @@
         "Origin": "https://playerembedcanais.site"
       }
     },
+    [
+  {
+    "id": "rtp_acores",
+    "nome": "RTP Açores",
+    "categoria": "Abertos",
+    "ativo": true,
+    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8",
+    "hosts": ["streaming-live.rtp.pt"],
+    "path": "/liverepeater/",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+    }
+  },
+  {
+    "id": "rtp_africa",
+    "nome": "RTP África",
+    "categoria": "Abertos",
+    "ativo": true,
+    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8",
+    "hosts": ["streaming-live.rtp.pt"],
+    "path": "/liverepeater/",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+    }
+  },
+  {
+    "id": "rtp_madeira",
+    "nome": "RTP Madeira HD",
+    "categoria": "Abertos",
+    "ativo": true,
+    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8",
+    "hosts": ["streaming-live.rtp.pt"],
+    "path": "/liverepeater/",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+    }
+  },
+  {
+    "id": "rtp_memoria",
+    "nome": "RTP Memória",
+    "categoria": "Abertos",
+    "ativo": true,
+    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8",
+    "hosts": ["streaming-live.rtp.pt"],
+    "path": "/liverepeater/",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+    }
+  },
+  {
+    "id": "rtp_mundo",
+    "nome": "RTP Mundo",
+    "categoria": "Abertos",
+    "ativo": true,
+    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8",
+    "hosts": ["streaming-live.rtp.pt"],
+    "path": "/liverepeater/",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+    }
+  }
     {
   "id": "sky_sports_f1",
   "nome": "Sky Sports F1",
